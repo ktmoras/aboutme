@@ -1,3 +1,5 @@
-# hello-world
-Github testing
-Github branch edit in readme-edits branch 
+Kenneth Moras is a recognized cybersecurity expert. At Plaid, Kenneth leads a dynamic team tackling complex cybersecurity GRC (Governance, Risk, and Compliance) programs. Kenneth's prior roles at Adobe and Meta involved orchestrating various Governance, Risk, Compliance, and Privacy programs for enterprise SaaS products. His consulting leadership at KPMG includes performing penetration testing and enhancing cybersecurity, privacy, and regulatory compliance strategies for several Fortune 500 companies across the globe.
+
+As a co-architect of the industry-leading framework Adobe CCF and the Open Finance security standard OFDSS (ofdss.org), Kenneth has significantly contributed to advancing industry standards. He is a frequent speaker at leading conferences such as SecureWorld and ISACA, and he has played a role in developing various regulations, such as the Dodd-Frank Act Section 1033 (Open Banking) and NIST standards (Secure Software Development Practices for Generative AI) and providing expert review on various thought leadership initiatives with Cloud Security Alliance.
+
+Kenneth Moras has been featured in major publications and contributes to the development of cybersecurity regulations. His expertise is frequently sought after in both private and public sectors, making him a prominent figure in the cybersecurity community.
